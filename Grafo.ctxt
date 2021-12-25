@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=NumerodeLineas\ NumerodeColumnas
+comment1.target=Grafo(int,\ int)
+numComments=2

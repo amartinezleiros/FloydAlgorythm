@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Lectura
+comment1.params=args
+comment1.target=int\ ArgCheck(java.lang.String[])
+comment2.params=strNum
+comment2.target=boolean\ isNumeric(java.lang.String)
+comment3.params=contador
+comment3.target=void\ CalcularLineas(java.lang.String)
+comment4.params=contador
+comment4.target=Grafo\ LeerDatos(java.lang.String)
+numComments=5
